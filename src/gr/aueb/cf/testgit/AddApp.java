@@ -6,5 +6,6 @@ public class AddApp {
     }
     public static int add(int a, int b){
         return a+b;
+        //ena sxolio
     }
 }
