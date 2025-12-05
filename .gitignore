@@ -5,9 +5,7 @@ GitTest9.iml
 **/*.log
 <<<<<<< HEAD
 testgit.iml
-=======
 clones-git-test9.iml
->>>>>>> 1581e97ba9d28691669b16ea73ff2c3845dc0c72
 
 ### Mac OS ###
 .DS_Store
